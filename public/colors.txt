@@ -1,0 +1,5 @@
+0 0 0 255        # Blue for sea level
+1000 0 255 0      # Green for lowlands
+2000 255 255 0    # Yellow for mid elevation
+3000 255 128 0   # Orange for higher
+4000 255 0 0     # Red for highest

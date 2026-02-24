@@ -1,0 +1,20 @@
+[
+  {
+    "layer_name": "Kathmandu",
+    "layer_type": "imagery",
+    "assetId": 4476418
+  },
+
+  {
+     "layer_name": "Sindupalchok",
+    "layer_type": "imagery",
+    "assetId": 4476809
+  },
+
+  {
+     "layer_name": "Sindupalchok_elevation",
+    "layer_type": "imagery",
+    "assetId": 4477500
+  }
+  
+]
