@@ -22,9 +22,7 @@ import SimpleLoader from "./Loader";
 import layersData from "../stores/mapLayer.json";     // can use any name for json
 
 
-Ion.defaultAccessToken =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI2ZDIzMjZiMy05ZGI5LTRlZmItOGU5My1iMjliMTRmOTBjMzkiLCJpZCI6Mzg2ODAyLCJpYXQiOjE3NzAxODIzNTJ9.9Y0fvN8dEkRPbRfkEYA_CwEn6cbQRouXyae1JbO-JAA";
-
+Ion.defaultAccessToken = "cesium ion token"
 const REMOVED_LAYERS = new Set([
   "Bing Maps Aerial",
   "Bing Maps Aerial with Labels",
